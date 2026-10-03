@@ -1,0 +1,9 @@
+# data (too large / licensed - download from Kaggle, see README)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
